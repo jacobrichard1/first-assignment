@@ -1,5 +1,5 @@
-# first-assignment
-
+# First-Assignment
+#### Assignment 1 in AP Computer Science 
 Why Take AP Computer Science?
 
 ![Slide5_CS_Education](https://user-images.githubusercontent.com/54617665/64083861-5afd7980-cd36-11e9-9e77-aee04fe154a4.png)
